@@ -1,7 +1,8 @@
 # Hello-World
 
-Hi There! 
+Hello World Web Page 
 
-This is my first commit for Hello World. Still many more commits to do.
-
-Stay there! 
+helloWorld.html : Contains HTML code for Hello World
+bootstrap.css : Bootstrap CSS File
+style.css : For aditional styles in Hello World webpage
+bootstrap.js : Bootstrap JavaScript file
